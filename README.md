@@ -21,13 +21,13 @@ that aims to **up the career of developers** by challenging them to build a **co
 	<a href="https://github.com/cp-yago/happy-server/commits/master">
 	  <img alt="last commit" src="https://img.shields.io/github/last-commit/cp-yago/happy-server">
 	</a>
-	<a href="https://github.com/felipejsborges/happy/issues">
+	<a href="https://github.com/cp-yago/happy/issues">
 		<img alt="issues" src="https://img.shields.io/github/issues/cp-yago/happy-server">
 	</a>
-	<a href="https://github.com/felipejsborges/happy/network/members">	
+	<a href="https://github.com/cp-yago/happy/network/members">	
 		<img alt="forks" src="https://img.shields.io/github/forks/cp-yago/happy-server">	
 	</a>
-	<a href="https://github.com/felipejsborges/happy/stargazers">
+	<a href="https://github.com/cp-yago/happy/stargazers">
 		<img alt="stars" src="https://img.shields.io/github/stars/cp-yago/happy-server">
 	</a>
 	<a href="https://github.com/cp-yago/happy-server/blob/master/LICENSE.md">
