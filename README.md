@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+	<img src="/.github/happy-banner.png" alt="banner" width="80%" />
+</div>
+
+<div align="center">
 	<h3>What is Happy? 🚪</h3>
 </div>
 
