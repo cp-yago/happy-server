@@ -47,8 +47,8 @@ and make then more **happy**.
 <div align="center">
 	<h3>See too</h3>
 
-[Happy Web](https://rocketseat.com.br/) ||
-[Happy Mobile](https://rocketseat.com.br/)
+[Happy Web](https://github.com/cp-yago/happy-web) ||
+[Happy Mobile](https://github.com/cp-yago/happy-mobile)
 </div>
 
 
